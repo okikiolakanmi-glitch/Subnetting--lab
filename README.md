@@ -4,7 +4,7 @@ Subnetting practice and CIDR calculations
 
 ## Objective
 The objective of this project is to understand subnetting, CIDR notation, subnet masks, and host calculations in networking.
-
+[subnetting-cidr-calculations.jpeg] 
 ## Topics Covered
 - Class A, B, C IP addresses
 - Subnet masks
